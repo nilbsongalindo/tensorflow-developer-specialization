@@ -8,3 +8,6 @@ Asserts from the Coursera's four-course program.
   [CNN - Fashion MNIST](https://github.com/nilbsongalindo/tensorflow-developer-specialization/blob/main/fashion_mnist_CNN.ipynb)
   
   [CNN - Horse and Humans](https://github.com/nilbsongalindo/tensorflow-developer-specialization/blob/main/horses_humans_CNN.ipynb)
+  
+  
+  * Convolutional Neural Networks in TensorFlow

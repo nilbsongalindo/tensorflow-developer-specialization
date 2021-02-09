@@ -10,4 +10,4 @@ Asserts from the Coursera's four-course program.
   [CNN - Horse and Humans](https://github.com/nilbsongalindo/tensorflow-developer-specialization/blob/main/horses_humans_CNN.ipynb)
   
   
-  * Convolutional Neural Networks in TensorFlow
+ * Convolutional Neural Networks in TensorFlow

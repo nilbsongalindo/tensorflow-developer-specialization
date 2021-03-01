@@ -15,3 +15,5 @@ Asserts from the Coursera's four-course program.
     [CNN - CATS vs DOGS](https://github.com/nilbsongalindo/tensorflow-developer-specialization/blob/main/cats%20vs%20dogs.ipynb)
     
     [CNN - PAPER ROCK SCISSORS](https://github.com/nilbsongalindo/tensorflow-developer-specialization/blob/main/Rock%20Paper%20Scissors.ipynb)
+
+* Natural Language Processing in TensorFlow

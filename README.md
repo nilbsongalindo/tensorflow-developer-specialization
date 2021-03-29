@@ -17,3 +17,9 @@ Asserts from the Coursera's four-course program.
     [CNN - PAPER ROCK SCISSORS](https://github.com/nilbsongalindo/tensorflow-developer-specialization/blob/main/Rock%20Paper%20Scissors.ipynb)
 
 * Natural Language Processing in TensorFlow
+
+
+* Natural Language Processing in TensorFlow
+
+* Sequences, Time Series and Prediction
+

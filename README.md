@@ -18,8 +18,5 @@ Asserts from the Coursera's four-course program.
 
 * Natural Language Processing in TensorFlow
 
-
-* Natural Language Processing in TensorFlow
-
 * Sequences, Time Series and Prediction
 

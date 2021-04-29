@@ -20,3 +20,5 @@ Asserts from the Coursera's four-course program.
 
 * Sequences, Time Series and Prediction
 
+   [Time Series forecast with linear regression using Dense layer](https://github.com/nilbsongalindo/tensorflow-developer-specialization/blob/main/time%20series%20with%20dense.ipynb)
+
